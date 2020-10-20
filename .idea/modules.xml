@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Assessment3.iml" filepath="$PROJECT_DIR$/.idea/Assessment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order_api/order_api.iml" filepath="$PROJECT_DIR$/order_api/order_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order_receiver/order_receiver.iml" filepath="$PROJECT_DIR$/order_receiver/order_receiver.iml" />
+    </modules>
+  </component>
+</project>
